@@ -1,4 +1,4 @@
-# Student-Management-System-BackEnd-FastAPI
+# Student Management System
 
 BackEnd FastAPI project for beginner level.
 
